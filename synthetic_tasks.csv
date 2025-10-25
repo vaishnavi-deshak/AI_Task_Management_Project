@@ -1,0 +1,201 @@
+Task_ID,Task_Description,Priority,Status,Assignee,Created_Date,Deadline
+1,Write documentation - implement and test. Notes: low risk,Medium,Completed,Charlie,2025-09-18,2025-09-24
+2,Write documentation - implement and test. Notes: bugfix,High,Completed,Emma,2025-10-15,2025-10-16
+3,Optimize database queries - implement and test. Notes: bugfix,Low,In Progress,Emma,2025-09-04,2025-09-24
+4,Test payment flow - implement and test. Notes: low risk,Medium,In Progress,Bob,2025-08-29,2025-08-31
+5,Test payment flow - implement and test. Notes: urgent,Medium,Pending,Bob,2025-10-21,2025-10-28
+6,Test payment flow - implement and test. Notes: refactor,High,In Progress,Emma,2025-10-13,2025-10-20
+7,Optimize database queries - implement and test. Notes: low risk,Medium,Completed,Bob,2025-10-14,2025-10-30
+8,Refactor legacy code - implement and test. Notes: bugfix,High,In Progress,Bob,2025-09-15,2025-10-09
+9,Optimize database queries - implement and test. Notes: refactor,Low,Completed,Bob,2025-09-26,2025-10-24
+10,Fix login bug - implement and test. Notes: refactor,Medium,Completed,Emma,2025-08-25,2025-09-09
+11,Update API endpoint - implement and test. Notes: urgent,Low,Completed,David,2025-10-08,2025-11-01
+12,Test payment flow - implement and test. Notes: enhancement,Medium,Pending,David,2025-08-25,2025-09-13
+13,Research new feature - implement and test. Notes: bugfix,Low,In Progress,David,2025-10-05,2025-10-24
+14,Update API endpoint - implement and test. Notes: urgent,Low,In Progress,Alice,2025-10-11,2025-10-24
+15,Set up CI/CD pipeline - implement and test. Notes: enhancement,Low,In Progress,Alice,2025-10-07,2025-10-23
+16,Optimize database queries - implement and test. Notes: bugfix,High,Pending,Bob,2025-10-17,2025-10-28
+17,Set up CI/CD pipeline - implement and test. Notes: urgent,Medium,Pending,David,2025-10-10,2025-11-06
+18,Research new feature - implement and test. Notes: low risk,Medium,In Progress,Bob,2025-10-01,2025-10-06
+19,Update API endpoint - implement and test. Notes: enhancement,Low,Completed,Bob,2025-09-19,2025-10-11
+20,Refactor legacy code - implement and test. Notes: bugfix,Low,In Progress,Alice,2025-10-08,2025-11-07
+21,Write documentation - implement and test. Notes: refactor,Low,In Progress,Emma,2025-10-16,2025-11-08
+22,Design dashboard UI - implement and test. Notes: enhancement,Medium,In Progress,Charlie,2025-09-27,2025-10-07
+23,Test payment flow - implement and test. Notes: bugfix,Medium,Completed,Alice,2025-10-22,2025-10-25
+24,Set up CI/CD pipeline - implement and test. Notes: urgent,Medium,Completed,Bob,2025-09-13,2025-10-04
+25,Design dashboard UI - implement and test. Notes: low risk,Medium,Pending,Charlie,2025-09-11,2025-09-20
+26,Test payment flow - implement and test. Notes: refactor,High,Completed,Bob,2025-10-17,2025-11-12
+27,Set up CI/CD pipeline - implement and test. Notes: urgent,Low,In Progress,Charlie,2025-09-22,2025-09-30
+28,Optimize database queries - implement and test. Notes: urgent,Medium,In Progress,David,2025-09-02,2025-09-29
+29,Design dashboard UI - implement and test. Notes: refactor,Low,Completed,David,2025-10-18,2025-10-22
+30,Test payment flow - implement and test. Notes: urgent,Medium,In Progress,Charlie,2025-10-02,2025-10-28
+31,Write documentation - implement and test. Notes: urgent,Low,In Progress,Charlie,2025-08-28,2025-09-06
+32,Update API endpoint - implement and test. Notes: low risk,High,In Progress,David,2025-09-11,2025-09-25
+33,Set up CI/CD pipeline - implement and test. Notes: bugfix,High,Completed,Bob,2025-10-17,2025-10-18
+34,Design dashboard UI - implement and test. Notes: refactor,Medium,Pending,Emma,2025-10-03,2025-10-29
+35,Update API endpoint - implement and test. Notes: enhancement,Medium,In Progress,Bob,2025-10-12,2025-11-10
+36,Test payment flow - implement and test. Notes: bugfix,Low,Completed,David,2025-10-06,2025-10-24
+37,Write documentation - implement and test. Notes: bugfix,Medium,Completed,Alice,2025-09-09,2025-09-18
+38,Optimize database queries - implement and test. Notes: refactor,Medium,Pending,Alice,2025-10-14,2025-10-19
+39,Design dashboard UI - implement and test. Notes: enhancement,Medium,Pending,Emma,2025-08-29,2025-09-18
+40,Research new feature - implement and test. Notes: urgent,Low,Pending,Alice,2025-09-04,2025-09-26
+41,Design dashboard UI - implement and test. Notes: low risk,Low,In Progress,Bob,2025-08-27,2025-09-23
+42,Refactor legacy code - implement and test. Notes: urgent,Low,In Progress,Emma,2025-08-30,2025-09-03
+43,Set up CI/CD pipeline - implement and test. Notes: low risk,Low,Completed,Charlie,2025-10-13,2025-11-01
+44,Refactor legacy code - implement and test. Notes: low risk,Medium,Completed,David,2025-08-25,2025-09-05
+45,Deploy microservice - implement and test. Notes: urgent,Medium,In Progress,Emma,2025-09-28,2025-10-25
+46,Test payment flow - implement and test. Notes: low risk,Medium,Completed,Bob,2025-09-08,2025-10-04
+47,Design dashboard UI - implement and test. Notes: refactor,High,In Progress,Bob,2025-09-24,2025-10-08
+48,Design dashboard UI - implement and test. Notes: urgent,Low,Pending,David,2025-10-01,2025-10-08
+49,Write documentation - implement and test. Notes: enhancement,Medium,Completed,Charlie,2025-09-14,2025-09-29
+50,Fix login bug - implement and test. Notes: urgent,Medium,Pending,Alice,2025-09-03,2025-09-19
+51,Design dashboard UI - implement and test. Notes: bugfix,Medium,Completed,Emma,2025-10-18,2025-11-12
+52,Deploy microservice - implement and test. Notes: low risk,Low,In Progress,Bob,2025-10-15,2025-11-08
+53,Deploy microservice - implement and test. Notes: enhancement,Low,In Progress,David,2025-10-12,2025-10-18
+54,Set up CI/CD pipeline - implement and test. Notes: refactor,Medium,Pending,David,2025-10-03,2025-10-29
+55,Deploy microservice - implement and test. Notes: enhancement,Medium,Completed,Charlie,2025-10-04,2025-11-02
+56,Design dashboard UI - implement and test. Notes: bugfix,Low,Completed,Emma,2025-10-03,2025-10-25
+57,Set up CI/CD pipeline - implement and test. Notes: enhancement,Medium,Completed,Charlie,2025-10-08,2025-11-01
+58,Deploy microservice - implement and test. Notes: refactor,High,Completed,Emma,2025-10-03,2025-10-19
+59,Set up CI/CD pipeline - implement and test. Notes: low risk,Medium,In Progress,Bob,2025-08-25,2025-09-09
+60,Refactor legacy code - implement and test. Notes: refactor,Medium,Pending,Alice,2025-09-04,2025-09-22
+61,Optimize database queries - implement and test. Notes: refactor,Low,Pending,David,2025-10-08,2025-11-06
+62,Optimize database queries - implement and test. Notes: refactor,Medium,Completed,David,2025-09-29,2025-10-14
+63,Optimize database queries - implement and test. Notes: urgent,High,In Progress,Bob,2025-09-08,2025-09-23
+64,Set up CI/CD pipeline - implement and test. Notes: enhancement,Low,Pending,Emma,2025-10-19,2025-10-26
+65,Refactor legacy code - implement and test. Notes: refactor,Low,Completed,Charlie,2025-09-14,2025-10-02
+66,Test payment flow - implement and test. Notes: bugfix,High,Pending,David,2025-10-01,2025-10-21
+67,Test payment flow - implement and test. Notes: low risk,Medium,In Progress,Alice,2025-09-19,2025-10-16
+68,Write documentation - implement and test. Notes: urgent,Low,Pending,Emma,2025-10-17,2025-10-21
+69,Optimize database queries - implement and test. Notes: refactor,Low,Completed,Alice,2025-10-22,2025-10-28
+70,Design dashboard UI - implement and test. Notes: enhancement,High,Pending,Emma,2025-09-12,2025-09-23
+71,Research new feature - implement and test. Notes: refactor,Medium,Completed,Charlie,2025-10-12,2025-10-16
+72,Optimize database queries - implement and test. Notes: urgent,High,Completed,Alice,2025-09-08,2025-09-12
+73,Deploy microservice - implement and test. Notes: bugfix,Medium,Completed,Bob,2025-09-29,2025-10-19
+74,Set up CI/CD pipeline - implement and test. Notes: bugfix,Medium,In Progress,Charlie,2025-09-04,2025-09-28
+75,Refactor legacy code - implement and test. Notes: urgent,Medium,In Progress,Emma,2025-10-08,2025-10-24
+76,Update API endpoint - implement and test. Notes: enhancement,High,In Progress,Emma,2025-09-17,2025-09-25
+77,Design dashboard UI - implement and test. Notes: refactor,High,Completed,Emma,2025-08-30,2025-09-14
+78,Write documentation - implement and test. Notes: urgent,Low,In Progress,Bob,2025-09-23,2025-09-27
+79,Set up CI/CD pipeline - implement and test. Notes: low risk,Medium,Pending,David,2025-09-21,2025-10-12
+80,Set up CI/CD pipeline - implement and test. Notes: refactor,Medium,Completed,David,2025-09-16,2025-09-26
+81,Design dashboard UI - implement and test. Notes: refactor,Medium,Completed,Charlie,2025-10-06,2025-11-03
+82,Set up CI/CD pipeline - implement and test. Notes: refactor,High,In Progress,Alice,2025-09-04,2025-09-20
+83,Optimize database queries - implement and test. Notes: enhancement,Medium,Pending,Bob,2025-10-09,2025-10-26
+84,Refactor legacy code - implement and test. Notes: low risk,Low,Completed,Alice,2025-09-04,2025-09-27
+85,Design dashboard UI - implement and test. Notes: enhancement,Medium,Completed,David,2025-08-31,2025-09-26
+86,Research new feature - implement and test. Notes: bugfix,Low,Pending,Emma,2025-09-11,2025-10-05
+87,Write documentation - implement and test. Notes: enhancement,Medium,Completed,Bob,2025-09-28,2025-10-14
+88,Refactor legacy code - implement and test. Notes: urgent,Low,Pending,Charlie,2025-09-03,2025-09-09
+89,Update API endpoint - implement and test. Notes: urgent,High,Completed,Bob,2025-08-26,2025-09-22
+90,Fix login bug - implement and test. Notes: enhancement,Low,Completed,Alice,2025-09-01,2025-09-26
+91,Research new feature - implement and test. Notes: bugfix,Medium,In Progress,David,2025-10-06,2025-10-26
+92,Research new feature - implement and test. Notes: low risk,Medium,Completed,Charlie,2025-09-25,2025-10-11
+93,Research new feature - implement and test. Notes: bugfix,Medium,Completed,David,2025-09-19,2025-10-19
+94,Test payment flow - implement and test. Notes: refactor,Medium,Pending,Charlie,2025-10-10,2025-10-19
+95,Research new feature - implement and test. Notes: refactor,Medium,In Progress,Charlie,2025-08-26,2025-09-09
+96,Optimize database queries - implement and test. Notes: urgent,Low,Completed,Alice,2025-10-17,2025-11-16
+97,Research new feature - implement and test. Notes: urgent,Medium,Pending,Bob,2025-10-02,2025-10-23
+98,Research new feature - implement and test. Notes: low risk,Medium,Completed,Alice,2025-08-31,2025-09-24
+99,Write documentation - implement and test. Notes: bugfix,Medium,Completed,Emma,2025-08-29,2025-09-06
+100,Write documentation - implement and test. Notes: low risk,Low,Completed,Charlie,2025-09-30,2025-10-04
+101,Set up CI/CD pipeline - implement and test. Notes: enhancement,Low,Pending,Emma,2025-09-12,2025-09-25
+102,Write documentation - implement and test. Notes: bugfix,Low,In Progress,Alice,2025-09-17,2025-09-24
+103,Set up CI/CD pipeline - implement and test. Notes: bugfix,Medium,Pending,Emma,2025-10-04,2025-10-24
+104,Research new feature - implement and test. Notes: refactor,Medium,Completed,Alice,2025-09-24,2025-10-20
+105,Design dashboard UI - implement and test. Notes: bugfix,Medium,Pending,Alice,2025-09-28,2025-10-12
+106,Fix login bug - implement and test. Notes: bugfix,Low,Pending,Emma,2025-10-10,2025-11-02
+107,Research new feature - implement and test. Notes: low risk,Low,In Progress,Emma,2025-08-31,2025-09-07
+108,Optimize database queries - implement and test. Notes: enhancement,Medium,Completed,Bob,2025-10-07,2025-10-12
+109,Fix login bug - implement and test. Notes: urgent,High,In Progress,Charlie,2025-09-12,2025-09-28
+110,Research new feature - implement and test. Notes: refactor,Medium,Completed,David,2025-09-15,2025-10-12
+111,Fix login bug - implement and test. Notes: bugfix,Medium,Pending,Bob,2025-09-25,2025-10-04
+112,Refactor legacy code - implement and test. Notes: urgent,Medium,Completed,Charlie,2025-09-29,2025-10-29
+113,Test payment flow - implement and test. Notes: urgent,High,Pending,Alice,2025-09-04,2025-09-30
+114,Test payment flow - implement and test. Notes: bugfix,Low,Pending,Bob,2025-09-12,2025-09-17
+115,Fix login bug - implement and test. Notes: enhancement,Low,In Progress,Emma,2025-09-21,2025-10-08
+116,Research new feature - implement and test. Notes: low risk,High,Completed,Bob,2025-10-06,2025-11-02
+117,Test payment flow - implement and test. Notes: enhancement,Medium,In Progress,Alice,2025-10-20,2025-10-23
+118,Research new feature - implement and test. Notes: urgent,High,Completed,Alice,2025-10-21,2025-11-20
+119,Test payment flow - implement and test. Notes: refactor,Low,Completed,Bob,2025-08-27,2025-09-01
+120,Write documentation - implement and test. Notes: bugfix,Medium,In Progress,Emma,2025-09-06,2025-09-10
+121,Design dashboard UI - implement and test. Notes: refactor,Medium,Completed,Emma,2025-09-22,2025-10-09
+122,Update API endpoint - implement and test. Notes: enhancement,Medium,In Progress,Bob,2025-10-13,2025-11-02
+123,Refactor legacy code - implement and test. Notes: bugfix,Medium,Completed,David,2025-09-15,2025-10-04
+124,Refactor legacy code - implement and test. Notes: bugfix,Medium,Completed,Charlie,2025-10-16,2025-10-22
+125,Update API endpoint - implement and test. Notes: enhancement,Low,Pending,Emma,2025-09-13,2025-09-18
+126,Design dashboard UI - implement and test. Notes: bugfix,Low,Completed,David,2025-08-30,2025-09-14
+127,Fix login bug - implement and test. Notes: refactor,Medium,In Progress,David,2025-10-20,2025-11-03
+128,Test payment flow - implement and test. Notes: urgent,High,In Progress,Charlie,2025-10-12,2025-10-22
+129,Refactor legacy code - implement and test. Notes: urgent,Medium,Pending,Alice,2025-09-24,2025-10-12
+130,Test payment flow - implement and test. Notes: bugfix,Medium,In Progress,Emma,2025-10-19,2025-10-29
+131,Research new feature - implement and test. Notes: bugfix,Low,In Progress,Charlie,2025-09-15,2025-09-25
+132,Update API endpoint - implement and test. Notes: refactor,Low,In Progress,Alice,2025-09-13,2025-09-20
+133,Refactor legacy code - implement and test. Notes: refactor,Medium,Pending,Bob,2025-08-30,2025-09-23
+134,Deploy microservice - implement and test. Notes: enhancement,Low,Pending,Bob,2025-10-15,2025-11-01
+135,Write documentation - implement and test. Notes: enhancement,Medium,In Progress,Alice,2025-10-16,2025-11-09
+136,Research new feature - implement and test. Notes: refactor,Low,In Progress,Alice,2025-10-10,2025-10-13
+137,Optimize database queries - implement and test. Notes: refactor,High,In Progress,Alice,2025-09-21,2025-10-10
+138,Set up CI/CD pipeline - implement and test. Notes: low risk,Low,In Progress,Emma,2025-10-18,2025-10-22
+139,Design dashboard UI - implement and test. Notes: bugfix,Medium,In Progress,Bob,2025-10-23,2025-11-04
+140,Deploy microservice - implement and test. Notes: low risk,Low,Completed,Alice,2025-09-10,2025-09-20
+141,Test payment flow - implement and test. Notes: bugfix,Low,In Progress,Alice,2025-10-23,2025-11-04
+142,Research new feature - implement and test. Notes: bugfix,Low,Completed,David,2025-09-24,2025-10-18
+143,Design dashboard UI - implement and test. Notes: low risk,Medium,Pending,Alice,2025-09-13,2025-09-28
+144,Fix login bug - implement and test. Notes: urgent,Low,Completed,David,2025-10-23,2025-11-06
+145,Design dashboard UI - implement and test. Notes: enhancement,Medium,In Progress,David,2025-09-05,2025-09-19
+146,Fix login bug - implement and test. Notes: bugfix,Medium,Pending,Charlie,2025-09-16,2025-10-03
+147,Research new feature - implement and test. Notes: refactor,High,Pending,Emma,2025-09-29,2025-10-26
+148,Write documentation - implement and test. Notes: enhancement,Medium,Pending,Emma,2025-09-02,2025-09-17
+149,Refactor legacy code - implement and test. Notes: enhancement,Medium,Pending,Charlie,2025-09-08,2025-10-07
+150,Optimize database queries - implement and test. Notes: enhancement,Low,Completed,Emma,2025-10-11,2025-10-14
+151,Optimize database queries - implement and test. Notes: urgent,Low,In Progress,David,2025-10-16,2025-10-18
+152,Design dashboard UI - implement and test. Notes: low risk,Medium,Completed,David,2025-09-17,2025-09-28
+153,Set up CI/CD pipeline - implement and test. Notes: refactor,High,In Progress,Charlie,2025-10-13,2025-10-25
+154,Fix login bug - implement and test. Notes: refactor,Medium,In Progress,David,2025-10-13,2025-10-19
+155,Fix login bug - implement and test. Notes: low risk,Medium,Pending,Charlie,2025-09-24,2025-10-03
+156,Refactor legacy code - implement and test. Notes: refactor,Medium,In Progress,David,2025-08-26,2025-09-06
+157,Optimize database queries - implement and test. Notes: low risk,Low,In Progress,Alice,2025-09-20,2025-09-22
+158,Set up CI/CD pipeline - implement and test. Notes: low risk,Medium,Completed,Alice,2025-10-09,2025-10-23
+159,Design dashboard UI - implement and test. Notes: urgent,High,Completed,Alice,2025-10-18,2025-10-23
+160,Test payment flow - implement and test. Notes: refactor,Medium,In Progress,Charlie,2025-09-04,2025-09-13
+161,Set up CI/CD pipeline - implement and test. Notes: urgent,High,In Progress,Bob,2025-09-26,2025-10-08
+162,Refactor legacy code - implement and test. Notes: enhancement,Low,Pending,Charlie,2025-10-04,2025-10-10
+163,Research new feature - implement and test. Notes: refactor,Medium,Pending,Charlie,2025-09-22,2025-10-17
+164,Deploy microservice - implement and test. Notes: refactor,Low,Completed,Alice,2025-10-16,2025-11-12
+165,Design dashboard UI - implement and test. Notes: urgent,Low,Pending,Bob,2025-10-19,2025-11-10
+166,Write documentation - implement and test. Notes: enhancement,Low,In Progress,Alice,2025-10-06,2025-10-19
+167,Research new feature - implement and test. Notes: refactor,Medium,In Progress,Emma,2025-09-06,2025-09-08
+168,Write documentation - implement and test. Notes: bugfix,High,Pending,David,2025-09-12,2025-09-23
+169,Set up CI/CD pipeline - implement and test. Notes: enhancement,Low,Pending,Emma,2025-10-09,2025-10-31
+170,Update API endpoint - implement and test. Notes: low risk,Low,Completed,Bob,2025-09-19,2025-10-09
+171,Set up CI/CD pipeline - implement and test. Notes: low risk,Low,In Progress,David,2025-10-18,2025-10-22
+172,Research new feature - implement and test. Notes: refactor,Low,Pending,Alice,2025-10-01,2025-10-08
+173,Test payment flow - implement and test. Notes: urgent,Medium,Completed,Emma,2025-10-16,2025-10-19
+174,Deploy microservice - implement and test. Notes: low risk,Low,Completed,Emma,2025-10-21,2025-11-17
+175,Set up CI/CD pipeline - implement and test. Notes: refactor,Medium,Completed,Alice,2025-10-07,2025-10-25
+176,Deploy microservice - implement and test. Notes: low risk,Medium,In Progress,Charlie,2025-09-28,2025-10-01
+177,Optimize database queries - implement and test. Notes: urgent,Medium,Completed,Bob,2025-10-05,2025-10-09
+178,Test payment flow - implement and test. Notes: refactor,Medium,Pending,Emma,2025-09-12,2025-09-26
+179,Design dashboard UI - implement and test. Notes: low risk,Medium,Completed,Emma,2025-08-31,2025-09-18
+180,Optimize database queries - implement and test. Notes: enhancement,Medium,Pending,Alice,2025-09-15,2025-10-15
+181,Set up CI/CD pipeline - implement and test. Notes: urgent,Medium,Pending,Alice,2025-09-02,2025-09-06
+182,Refactor legacy code - implement and test. Notes: bugfix,Low,Completed,David,2025-09-03,2025-09-13
+183,Refactor legacy code - implement and test. Notes: urgent,High,Pending,Emma,2025-09-13,2025-09-23
+184,Set up CI/CD pipeline - implement and test. Notes: urgent,Low,In Progress,Charlie,2025-09-14,2025-10-08
+185,Fix login bug - implement and test. Notes: bugfix,Medium,Completed,Bob,2025-09-13,2025-10-08
+186,Deploy microservice - implement and test. Notes: refactor,Medium,Pending,Bob,2025-09-17,2025-09-27
+187,Refactor legacy code - implement and test. Notes: urgent,Medium,In Progress,Charlie,2025-09-22,2025-09-30
+188,Deploy microservice - implement and test. Notes: low risk,Medium,Completed,Emma,2025-09-06,2025-09-09
+189,Fix login bug - implement and test. Notes: bugfix,High,Pending,Emma,2025-10-08,2025-10-20
+190,Test payment flow - implement and test. Notes: low risk,Medium,Completed,Emma,2025-09-06,2025-09-16
+191,Update API endpoint - implement and test. Notes: refactor,Low,Completed,Alice,2025-10-10,2025-10-28
+192,Update API endpoint - implement and test. Notes: urgent,Low,Pending,Bob,2025-10-18,2025-10-29
+193,Refactor legacy code - implement and test. Notes: refactor,Low,Completed,Alice,2025-10-05,2025-10-23
+194,Update API endpoint - implement and test. Notes: bugfix,Low,Pending,Alice,2025-08-28,2025-09-04
+195,Fix login bug - implement and test. Notes: enhancement,Low,Pending,David,2025-10-01,2025-10-31
+196,Design dashboard UI - implement and test. Notes: bugfix,Medium,Pending,Bob,2025-09-18,2025-09-20
+197,Fix login bug - implement and test. Notes: urgent,Medium,In Progress,Emma,2025-10-02,2025-10-13
+198,Test payment flow - implement and test. Notes: urgent,Low,In Progress,Emma,2025-09-05,2025-09-19
+199,Fix login bug - implement and test. Notes: refactor,Medium,In Progress,David,2025-09-08,2025-10-03
+200,Fix login bug - implement and test. Notes: enhancement,Low,Pending,Emma,2025-10-20,2025-10-25

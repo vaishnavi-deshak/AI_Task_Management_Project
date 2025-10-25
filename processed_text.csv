@@ -1,0 +1,4 @@
+text,cleaned_text,tokens
+I love Python programming,love python programming,"['love', 'python', 'programming']"
+NLP is very useful,nlp useful,"['nlp', 'useful']"
+Python makes data analysis easy,python makes data analysis easy,"['python', 'makes', 'data', 'analysis', 'easy']"
