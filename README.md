@@ -1,9 +1,9 @@
-🤖 AI Task Management System
+# 🤖 **AI Task Management System**
 
 This project uses Natural Language Processing (NLP) and Machine Learning to automate task management.
 It analyzes task descriptions, predicts their priority, and distributes them among users for balanced workload management.
 
-🚀 Features
+# 🚀** Features**
 
 ✅ Text preprocessing and NLP tokenization
 ✅ Task priority prediction using Random Forest
@@ -11,7 +11,7 @@ It analyzes task descriptions, predicts their priority, and distributes them amo
 ✅ Workload balancing among users
 ✅ Visual dashboards for task insights
 
-🧠 Tech Stack
+# 🧠** Tech Stack**
 Python 3.12+
 Pandas, NumPy – data processing
 NLTK – text cleaning and tokenization
@@ -19,7 +19,7 @@ Scikit-learn – model building (Naive Bayes, Random Forest)
 Matplotlib, Seaborn – data visualization
 Git & GitHub – version control
 
-⚙️ How It Works
+# ⚙️** How It Works**
 
 1.Data Preprocessing – cleaned and tokenized text using NLP.
 2.Feature Extraction – converted text to numerical form using TF-IDF.
@@ -29,11 +29,11 @@ Git & GitHub – version control
 -priority_distribution_summary.png
 -tasks_per_user_summary.png
 
-📊 Results
+# 📊** Results**
 Models achieved up to 100% accuracy on training data.
 Dashboard visuals confirm accurate workload distribution.
 
-📂 Project Structure
+# 📂** Project Structure**
 AI_TASK_MANAGEMENT/
 │
 ├── main.py
@@ -45,7 +45,7 @@ AI_TASK_MANAGEMENT/
 ├── tasks_per_user_summary.png
 └── README.md
 
-📸 Screenshots
+# 📸** Screenshots**
 
 
 <img width="600" height="400" alt="priority_distribution" src="https://github.com/user-attachments/assets/b5bc055d-7fc5-4387-971e-b93ede05dd56" />
@@ -60,12 +60,12 @@ AI_TASK_MANAGEMENT/
 <img width="600" height="400" alt="tasks_per_user_summary" src="https://github.com/user-attachments/assets/53601c0f-d33a-4aae-bf68-a4ac81d44225" />
 
 
-💬 Future Scope
+# 💬 **Future Scope**
 
 🚧 Deploy model using Streamlit or Flask for real-time task management.
 📈 Expand dataset and implement deep learning for advanced prediction.
 
-👩‍💻 Author
+# 👩‍💻** Author**
 
 Vaishnavi Deshak
 Data Science Internship Project – AI Task Management System
