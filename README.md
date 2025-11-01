@@ -1,69 +1,44 @@
 # 🤖 **AI Task Management System**
-
-This project uses Natural Language Processing (NLP) and Machine Learning to automate task management.
-It analyzes task descriptions, predicts their priority, and distributes them among users for balanced workload management.
+AI Task Management System is a data science project developed as part of my Data Science Internship.
+It uses Machine Learning and Natural Language Processing (NLP) to automatically predict the priority level of tasks — High, Medium, or Low — based on their textual descriptions.
+The project helps teams manage workload efficiently by identifying which tasks require immediate attention and which can be scheduled later
 
 # 🚀** Features**
-
-✅ Text preprocessing and NLP tokenization
-✅ Task priority prediction using Random Forest
-✅ Task classification using Naive Bayes
-✅ Workload balancing among users
-✅ Visual dashboards for task insights
+Predicts task priority using trained ML models
+Real-time prediction via Streamlit Web App
+Performs text preprocessing (stopword removal, tokenization, TF-IDF vectorization)
+Saves trained models (.pkl files) for reuse
+Includes data visualization for task distribution
 
 # 🧠** Tech Stack**
-Python 3.12+
-Pandas, NumPy – data processing
-NLTK – text cleaning and tokenization
-Scikit-learn – model building (Naive Bayes, Random Forest)
-Matplotlib, Seaborn – data visualization
-Git & GitHub – version control
+Languages: Python
+Libraries: Pandas, NumPy, Scikit-learn, NLTK, Joblib, Streamlit
+Tools: VS Code, GitHub
+Model: Random Forest Classifier
 
 # ⚙️** How It Works**
+1.Data Cleaning & Preprocessing: Removes noise and prepares text data.
+2.Feature Extraction: Converts text to numeric form using TF-IDF.
+3.Model Training: Trains Random Forest model for priority classification.
+4.Deployment: Streamlit app provides an interactive interface for users to enter tasks and instantly get priority predictions.
 
-1.Data Preprocessing – cleaned and tokenized text using NLP.
-2.Feature Extraction – converted text to numerical form using TF-IDF.
-3.Model Training – trained Naive Bayes and Random Forest models.
-4.Prediction – predicted task priority (High / Medium / Low).
-5.Visualization – generated charts:
--priority_distribution_summary.png
--tasks_per_user_summary.png
+#💻** Run Locally**
+git clone https://github.com/vaishnavi-deshak/AI_Task_Management_Project.git
+cd AI_Task_Management_Project
+pip install -r requirements.txt
+python -m streamlit run app.py
 
-# 📊** Results**
-Models achieved up to 100% accuracy on training data.
-Dashboard visuals confirm accurate workload distribution.
-
-# 📂** Project Structure**
-AI_TASK_MANAGEMENT/
-│
-├── main.py
-├── eda_cleaning.py
-├── day5_7.py
-├── week2_model.py
-├── processed_text.csv
-├── priority_distribution_summary.png
-├── tasks_per_user_summary.png
-└── README.md
+#📊** Output**
+-Enter a task like:
+“Fix urgent issue in client system” → High Priority
+“Review weekly report” → Medium Priority
+“Organize old files” → Low Priority
 
 # 📸** Screenshots**
 
-
-<img width="600" height="400" alt="priority_distribution" src="https://github.com/user-attachments/assets/b5bc055d-7fc5-4387-971e-b93ede05dd56" />
-
-
 <img width="600" height="400" alt="priority_distribution_summary" src="https://github.com/user-attachments/assets/e52ac542-4217-4778-a5b6-671bd40c8c9e" />
 
-
 <img width="700" height="500" alt="status_by_priority" src="https://github.com/user-attachments/assets/63dd48f1-2dcd-400b-bd46-f6cc17f2503d" />
-
-
-<img width="600" height="400" alt="tasks_per_user_summary" src="https://github.com/user-attachments/assets/53601c0f-d33a-4aae-bf68-a4ac81d44225" />
-
-
-# 💬 **Future Scope**
-
-🚧 Deploy model using Streamlit or Flask for real-time task management.
-📈 Expand dataset and implement deep learning for advanced prediction.
 
 # 👩‍💻** Author**
 
