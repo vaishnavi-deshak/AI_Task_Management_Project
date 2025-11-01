@@ -22,13 +22,13 @@ Model: Random Forest Classifier
 3.Model Training: Trains Random Forest model for priority classification.
 4.Deployment: Streamlit app provides an interactive interface for users to enter tasks and instantly get priority predictions.
 
-#💻** Run Locally**
+# 💻** Run Locally**
 git clone https://github.com/vaishnavi-deshak/AI_Task_Management_Project.git
 cd AI_Task_Management_Project
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-#📊** Output**
+# 📊** Output**
 -Enter a task like:
 “Fix urgent issue in client system” → High Priority
 “Review weekly report” → Medium Priority
@@ -37,8 +37,9 @@ python -m streamlit run app.py
 # 📸** Screenshots**
 
 <img width="600" height="400" alt="priority_distribution_summary" src="https://github.com/user-attachments/assets/e52ac542-4217-4778-a5b6-671bd40c8c9e" />
-
 <img width="700" height="500" alt="status_by_priority" src="https://github.com/user-attachments/assets/63dd48f1-2dcd-400b-bd46-f6cc17f2503d" />
+<img width="600" height="400" alt="tasks_per_user_summary" src="https://github.com/user-attachments/assets/ed555ea0-7e55-4f96-86a0-4c08717b2b3a" />
+
 
 # 👩‍💻** Author**
 
